@@ -26,6 +26,7 @@ This repository should eventually contain the famous "Hello World" program in al
 - Add your language to this file in the below list.
 
 ## Languages Covered
+- [x] **Arnold-C**
 
 - [x] **ABAP**
 ABAP is a high-level programming language created by the German software company SAP SE. It is currently positioned, alongside Java, as the language for programming the SAP Application Server, which is part of the NetWeaver platform for building business applications.
@@ -62,6 +63,7 @@ C++ is a general-purpose object-oriented programming (OOP) language, developed b
 - [x] **Cobol**
 
 COBOL is a compiled English-like computer programming language designed for business use. It is imperative, procedural and, since 2002, object-oriented. COBOL is primarily used in business, finance, and administrative systems for companies and governments.
+- [x] **Cow**
 
 - [x] **COOL**
 
